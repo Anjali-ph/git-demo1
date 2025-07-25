@@ -1,0 +1,2 @@
+git init :to initialize git in local workspace
+get ass -A: to add all file
